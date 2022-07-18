@@ -42,7 +42,7 @@ This is a plug-and-play Jekyll theme which you can use on GitHub Pages without e
 
 ## Acknowledgements
 
-This project was founded by the H2020 BIM4Ren Project. Furthermore it received an Epic Megagrant in 2021.
+This project was founded by the H2020 BIM4Ren Project. Furthermore it received an [Epic Megagrant](https://www.unrealengine.com/en-US/blog/epic-megagrants-fall-2020-update) in 2021.
 
 
 
