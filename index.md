@@ -3,51 +3,44 @@ layout: default
 title: Context Aware Image Acquisition
 ---
 
-Lorem [CAIA](https://github.com/amitmerchant1990/reverie) ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   
+<p style="text-align: justify;">
+CAIA is a prototype workflow for the image documentation of existing buildings. It is based on openBIM standards such as the Industry Foundation Classes (IFC) and the BIM Collaboration Format (BCF). 
+</p>
 
+<p style="text-align: justify;">
+Since most buildings today are not yet digitised, or even BIMified, CAIA is based first and foremost on a simple component: the 2D plan.
+Using this plan in combination with your mobile device you can capture images on site and locate them in the building, either by manually positioning them, or by using Augmented Reality tracking.
+</p>
 
-![](./images/IntroView.png)
+<figure>
+  <img src="{{site.baseurl}}images/Screenshots/ScreeshotCAIA.png" alt="CAIA mobile app"/>
+  <figcaption style="text-align: center;"></figcaption>
+</figure>
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.   
+<p style="text-align: justify;">
+These images can be uploaded to a server and shared with other participants of your project. A web application can access this information so you can review and filter your captured images in the browser.
+</p>
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.   
+<figure>
+  <img src="{{site.baseurl}}images/Screenshots/SC_2D_Image.png" alt="2D view of the web application"/>
+  <figcaption style="text-align: center;"></figcaption>
+</figure>
 
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.   
+<p style="text-align: justify;">
+No BIM is necessary, which satisfies the needs of most projects.
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.   
+However, CAIA can be connected with the BIM methodology, so that images, located on 2D plans, are spatially linked with the BIM model.
+</p>
 
-At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusam aliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed tempor et et invidunt justo labore Stet clita ea et gubergren, kasd magna no rebum. sanctus sea sed takimata ut vero voluptua. est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur
-
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
-
-## Built With
-
-* [![React][React.js]][React-url]
-
-
-
-## Features overview
-
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+<figure>
+  <img src="{{site.baseurl}}images/Screenshots/SC_3D_Image.png" alt="3D view of the web application"/>
+  <figcaption style="text-align: center;"></figcaption>
+</figure>
 
 
 ## Acknowledgements
 
-This project was founded by the H2020 BIM4Ren Project. Furthermore it received an [Epic Megagrant](https://www.unrealengine.com/en-US/blog/epic-megagrants-fall-2020-update) in 2021.
+This project was funded by the H2020 [BIM4Ren](https://bim4ren.eu) Project and received an [Epic Megagrant](https://www.unrealengine.com/en-US/blog/epic-megagrants-fall-2020-update) in 2020.
 
 
 
