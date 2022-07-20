@@ -27,7 +27,7 @@ These images can be uploaded to a server and shared with other participants of y
 </figure>
 
 <p style="text-align: justify;">
-No BIM is necessary, which satisfies the needs of most projects.
+No BIM is necessary, which satisfies the needs of most building related projects.
 
 However, CAIA can be connected with the BIM methodology, so that images, located on 2D plans, are spatially linked with the BIM model.
 </p>
